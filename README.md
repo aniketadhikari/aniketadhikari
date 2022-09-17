@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aniketadhikari
-- 👀 I’m interested in programming in C and Java 
-- 🌱 I’m currently learning how to program in C 
+- 👀 I’m interested in programming in Python
+- 🌱 I’m currently learning how to program in Python through my Introduction to Artificial Intelligece class at Virginia Tech 
++
+..
 - 📫 To contact me, email me at aniketadhikari6th@gmail.com
 
 <!---
