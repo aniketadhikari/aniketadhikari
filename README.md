@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniketadhikari
-- 👀 I’m interested in programming in Python
+- 👀 I’m interested in programming in Python and Spark
 - 🎓 Will be pursuing a Master's of Engineering in Computer Science and Applications at Virginia Tech where I will be concentrating in Human Computer Interaction and Data Analytics & AI
 
 ..
